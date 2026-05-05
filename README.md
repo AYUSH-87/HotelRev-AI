@@ -60,7 +60,8 @@ To help hotels **improve guest satisfaction & revenue** by analyzing patterns in
 ## 👨‍💻 Author
 
 Ayush Nayak
-Infosys Springboard Intern
+Infosys 
+Springboard Intern
 
 ## 📄 License
 
